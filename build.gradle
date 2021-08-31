@@ -3,7 +3,7 @@ plugins {
 }
 group 'fr.litopia'
 version 'alpha-0.1'
-sourceCompatibility=1.8
+sourceCompatibility=16
 repositories {
 
   /*
@@ -42,5 +42,7 @@ jar {
         }
     }
 }
+
+jar.setDestinationDir(new File('D:\\Litopia\\LitopiaLinkS5 (depreciated)\\Dev_Server\\plugins'))
 
 apply plugin: 'java'
