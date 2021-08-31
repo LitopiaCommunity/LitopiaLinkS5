@@ -1,0 +1,10 @@
+/.gradle/
+/build/
+/build/classes/java/main/
+/.vscode/
+/bin/
+../Dev_Server/
+/gradle/
+/.project/
+/.settings/
+/.classpath/

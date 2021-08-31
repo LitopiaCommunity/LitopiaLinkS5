@@ -1,0 +1,5 @@
+name: LitopiaLink
+description: The Official Litopia Plugin
+version: alpha-0.1
+api-version: 1.17
+main: fr.litopia.main
